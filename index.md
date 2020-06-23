@@ -8,3 +8,7 @@ Aber mit Hilfe dieses Kurses wird er schlauer.
 * Er kann Java
 * Er ist schon alt
 * Er mag openHPI
+
+## Zitat
+> Foever young
+
