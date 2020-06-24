@@ -12,3 +12,5 @@ Aber mit Hilfe dieses Kurses wird er schlauer.
 ## Zitat
 > Foever young
 
+## My favorite picture
+![Lukas im Schnee](./dog.png)
