@@ -13,4 +13,4 @@ Aber mit Hilfe dieses Kurses wird er schlauer.
 > Foever young
 
 ## My favorite picture
-![Lukas im Schnee](./dog.png)
+![Ein Altarbild](https://de.wikipedia.org/wiki/Nievenheim#/media/Datei:Nievenheim_Altar.jpg) "Ein Altar"
