@@ -13,4 +13,4 @@ Aber mit Hilfe dieses Kurses wird er schlauer.
 > Foever young
 
 ## My favorite picture
-![Ein Altarbild](https://de.wikipedia.org/wiki/Nievenheim#/media/Datei:Nievenheim_Altar.jpg) "Ein Altar"
+![Ein Altarbild](https://upload.wikimedia.org/wikipedia/commons/f/f2/Nievenheim_Altar.jpg) "Ein Altar"
