@@ -12,3 +12,5 @@ Aber mit Hilfe dieses Kurses wird er schlauer.
 ## Zitat
 > Foever young
 
+## My favorite picture
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Nievenheim_Altar.jpg"/>
